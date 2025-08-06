@@ -1,4 +1,4 @@
-# Scientific Calculator (No Math Modules)
+# Scientific Calculator (No Math Modules, Menu driven Program)
 
 [![Run on Repl.it](https://replit.com/badge/github/pallab0001/SureTrust_Assignment_ScientificCalculator)](https://replit.com/new/github/YourGitHubUsername/RepoName)
 
